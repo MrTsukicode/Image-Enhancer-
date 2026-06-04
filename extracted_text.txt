@@ -1,0 +1,2 @@
+=== OCR Processing Log ===
+Error processing nmic.pdf: Unable to get page count. Is poppler installed and in PATH?
