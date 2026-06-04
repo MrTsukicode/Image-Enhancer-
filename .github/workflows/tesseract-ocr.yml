@@ -14,10 +14,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Install Tesseract OCR
+    - name: Install Tesseract OCR and Poppler
       run: |
         sudo apt-get update
-        sudo apt-get install -y tesseract-ocr
+        sudo apt-get install -y tesseract-ocr poppler-utils
 
     - name: Set up Python
       uses: actions/setup-python@v5
