@@ -1,2 +1,467 @@
 === OCR Processing Log ===
-Error processing nmic.pdf: Unable to get page count. Is poppler installed and in PATH?
+
+=== Text from PDF: nmic.pdf ===
+--- Page 1 ---
+AUlcl Aisgl soRiRca wauoll feifaes
+
+Nepal Micro Insurance Company Limited
+
+Maharjan Complex, Bharatpur, Chitwan
+
+Fig In '000
+At the end of Immediate
+Previous Year
+
+At the end of
+this Quarter
+
+Goodwill & Intangible Assets 11,690.58
+Property and Equipment 32,068.31
+
+12,642.95
+35,239.31
+
+TIT AF. O%G-¥A WBRZ, 0F-¥URGREZ
+zAa: info@nepalmicro.com
+aqaalee: www.nepalmicro.com
+
+Current Year
+
+Upto This Quarter
+(YTD)
+
+96,342
+1,693
+
+Previous Year |
+
+Upto This Quarter
+(YTD)
+
+80,602
+
+217
+
+Particulars
+
+. Total Issued Policy Count
+. Total Renewed Policy Count
+
+Investment Properties o
+Deferred Tax Assets 4,315.13
+Investment in Subsidiaries z
+Investment in Associates
+Investments
+
+Loans
+
+637,555.97
+
+703,987.95
+
+735
+1,178
+107,619
+41,268
+
+420
+449
+44,442
+18,182
+
+. Total Claim paid count
+
+. Outstanding Claim paid count
+
+. Gross outstanding claim including IBNR and IBNER (‘000)
+. Net outstanding claim including IBNR and IBNER ('000)
+
+. Margin over best estimate
+
+Reinsurance Assets 214,710.62 108,121.25
+
+. Unearned Premium Reserve (Amount) 247,841 211,964
+
+Current Tax Assets
+Insurance Receivables
+Other Assets
+
+Other Financial Assets
+Cash and Cash Equivalent
+Total Assets
+
+Equity:
+
+26,295.31
+3,071.83
+202,092.17
+696.25
+93,364.77
+1,292,292.91
+
+19,803.93
+4,256.47
+3,760.21
+
+151,704.88
+32,474.93
+1,005,559.91
+
+. Unexpired Risk Reserve (Amount) - -
+10. Earthquake Premium Reserve (Amount) - -
+11. Long Term Investment ('000) 407,337.95 420,588.00
+12. Short Term Investment ('000) 296,650.00 216,967.97
+13. Direct Premium (Amount) 248,929.65 193,450.00
+14. Investment in cost (Amount) 703,987.95 637,555.97
+
+Share Capital
+Share Application Money Pending Allotment
+Share Premium
+
+Special Reserve
+
+Catastrophe Reserves
+
+Retained Earnings
+
+Other Equity
+
+Total Equity
+
+Liabilities:
+
+Provisions
+
+Gross Insurance Contract Liabilities
+
+Deferred Tax Liabilities
+
+Insurance Payable
+
+Current Tax Liabilities
+
+Borrowings a
+Other Liabilities 108,533.41
+Other Financial Liabilities 13,276.04
+Total Liabilities 541,034.64 250,391.70
+Total Equity and Liabilities 1,292,292.91 1,005,559.91
+
+CONDENSED STATEMENT OF PROFIT OR LOSS
+Fig In ‘000
+Corresponding Previous Year |
+
+Upto This
+This Quarter Quarter (YTD)
+
+750,000.00 750,000.00
+
+2,446.45
+244.64
+1,922.59
+489.78
+751,258.27
+
+2,674.42
+267.44
+2,208.26
+18.09
+755,168.21
+
+3,574.04
+355,459.51
+
+1,378.17
+182,724.87
+145.23
+33,374.37
+
+60,191.64
+
+30,488.90
+2,280.17
+
+Current Year
+
+Upto This
+Quarter (YTD)
+
+Particul.
+anmounars This Quarter
+
+37,336.05
+-19,958.13
+
+Gross Earned Premiums
+Premiums Ceded
+
+50,063.13
+-29,031.39
+
+138,324.88
+-82,920.82
+
+127,701.04
+
+15. Solvency Margin Ratio 2.03
+
+Notes to interim Financial Statements:
+
+1. The above figures are subject to change as per the direction of regulatory body i.e. Nepal Insurance Authority
+
+2. The interim financial statement have been prepared in accordance with Nepal Financial Reporting Standards
+(NFRS) as issued by the Accounting Standard Board, Nepal and the carve outs issued by ICAN.
+
+3. Gross earned premium has been measured net of unearned premium reserve.
+
+4, Last year amount have been reclassified, restated and corrected wherever necessary
+
+5. The interim financial statement has been updated in our website: www.nepalmicro.com
+
+Disclosure as per Section 84(3) of Insurance Act, 2079
+
+1. Solvency Ratio related disclosure: 2.03
+
+2. Reinsurance related disclosure: Reinsurance treaty with Nepal Re and Himalayan Re
+
+3. Details regarding legal proceeding: N/A
+
+4. Corporate Governance: All the points are being reviewed and compliance is in process
+
+5. Regulatory limit on expenses ratio:
+
+6. Any other disclosure as deemed relevant
+
+Disclosure as required by other regulatory bodies and Nepal Financial Reporting
+Standard Disclosure as per Securities Registration and Issuance
+Regulation, 2073, Related to Rule 26(1) of Annexure 14
+
+1. Financial Statement
+Statement of Financial Position and Statement of Profit or Loss as per Nepal Financial Reporting Standard (NFRS)
+including key financial indicators and ratios along with this report. There has not been any related party transaction
+
+during the period.
+Key Financial indicators and Ratios
+
+Earnings per share (Annualized) P/E Ratio
+
+Net Earned Premiums
+Commission Income
+Other Direct Income -
+Income from Investments and Loans 7,901.28
+Net Gain/(Loss) on Fair Value Changes *
+Net Realised Gains/(Losses)
+Other Income -
+Total Income 34,938.63
+Expenses:
+
+Gross Claims Paid
+
+Claims Ceded
+
+Gross Change in Contract Liabilities
+Change in Contract Liabities Ceded to Reinsurers
+Net Claims Incurred
+
+Commission Expenses 425.87 1,237.96
+Service Fees 184.62 547.70
+Other Direct expenses - -
+Employee Benefits Expenses 5,798.18 43,939.80
+Depreciation and Amortization Expenses 2,224.31 6,452.95
+Impairment Losses
+
+Other Operating Expenses
+Finance Cost
+
+Total Expenses
+
+Net Profit/(Loss) For The Year Before
+Share of Net Profits of Associates
+Accounted for Using Equity Method and Tax
+
+Share of Net Profit of Associates
+accounted using Equity Method : :
+
+Profit Before Tax 17,094.37 36,446.27
+Income Tax Expenses 5,128.31 10,933.88
+Net Profit/(Loss) For The Year 11,966.06 25,512.39
+Earning Per Share -
+Basic EPS 2.13
+Diluted EPS 2.13
+
+21,031.73
+6,005.62
+
+55,404.05 17,377.92
+17,506.71 1,003.70
+24,244.37 9,222.31
+69,715.08 -4,231.20
+23,767.03
+
+308.12
+47,447.87
+
+-73,033.80
+54,667.24
+10,039.75
+
+30,844.39
+4,231.20
+23,767.03
+869.87
+115,957.08
+34,330.30
+-22,085.02
+34,985.92
+-22,038.03
+25,193.18
+580.34
+432.39
+37,398.29
+4,347.28
+
+2,100.00
+168,970.21
+
+20,064.22
+12,387.10
+18,764.20
+
+17,578.01
+
+6,490.94
+
+50,837.36
+“32,137.71
+47,293.63
+-29,260.42
+36,732.86
+
+16,288.13
+-10,464.05
+12,686.32
+-7,943.82
+10,566.59
+32.67
+161.45
+
+12,016.24
+1,419.37
+
+46,598.20
+719.60
+115,269.28
+687.80
+
+22,685.38
+226.60.
+47,108.29
+339.58
+
+43,136.37
+476.31
+132,523.94
+36,446.27
+
+2,578.45
+141.91
+17,844.26
+17,094.37
+
+4.54
+4.54
+
+CONDENSED CONSOLIDATI EMENT OF OTHER COMPREHENSIVE INCOME
+
+Corresponding Previous Year
+This Quarter| _ Upto This
+
+Current Year
+
+Upto This
+Quarter (YTD)
+
+Particulars
+
+Net Profit/(Loss) For The Year 11,966.06
+
+Other Comprehensive Income
+Total Comprehensive Income
+
+11,966.06 25,512.39 237.71 481.46
+
+Net worth per Share (NPR)
+
+Liquidity ratio
+
+2 Management Analysis
+
+a. Financial indicators during the period were at satisfactory level.
+
+b. Major area of Focus:
+
+- Creating insurance awareness among people.
+
+- Increasing human resource capacity and efficiency
+
+- Mitigating AML/CFT related risk
+
+- Promotion of Digital Services
+
+- Mitigating cyber security risk
+
+3 Details relating to Legal Action
+
+a. Except for the lawsuit in the normal course of business there are no material cases filed by or against the institution
+
+b. No cases have been reported regarding filing or filed against the promoter or director of the institution for non
+compliance of prevailing laws or commission of criminal offence.
+
+c. No cases have been filed against any promoter or director for financial crime
+
+4 Analysis of stock performance of insurance
+
+a. Share price and transaction are determined as per open market competition.
+
+b. Maximum, minimum and closing share price including total share transaction number and days of transaction
+
+during the period were:
+
+Max. Share price (NPR)
+Closing price of the share (NPR)
+
+NAV per share (NPR)
+Solvency Ratio
+
+181%
+
+1,525.00
+1,194.90
+1,086,259.00
+
+Share Price (NPR)
+Number of days traded
+
+Total Volume of traded shares
+
+(Source// website of Nepal Stock Exchange Limited)
+Problem and Challenges
+a. Internal
+- Operational and Digital risk
+- Management of insurance claims
+External
+- Sluggish business growth due to economic recession
+- Significant decrease in interest rate.
+- Lack of awareness among people about the need and importance of insurance
+Corporate governance
+. The board of directors and management is fully committed to follow good governance and ensure full compliance
+with all the applicable laws and regulation.
+. The company has formed audit committee, AML/CFT committee and various departments to establish good
+governance and control system in the company.
+. The company holds its internal and external audit by independent audit firm of Chartered Accountants.
+Declaration by CEO
+| hereby declare that the particulars, data and information mentioned in this report, to the best of my knowledge,
+are true, fair and complete. | have not knowingly concealed any material particulars and information to misguide
+the investors. | personally take the responsibility on the truthfulness
+of data, information and particulars disclosed in this report.
+
+
